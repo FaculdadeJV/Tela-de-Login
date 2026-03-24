@@ -12,12 +12,15 @@ Uma interface de login moderna e interativa, desenvolvida para demonstrar concei
 ![Tela de Login](./print-login.png)
 
 ### Alerta de Campos Vazios
-![Validação](./print-validacao.png)
+![Validação](./alerta.png)
 
 ### Mensagem de Boas‑vindas
-![Boas‑vindas](./print-bemvindo.png)
+![Boas‑vindas](./bemvindo.png)
 
-> 📸 *As imagens acima são ilustrativas; substitua pelos prints reais do seu projeto.*
+### Cargos
+![Boas‑vindas](./cargo.png)
+
+
 
 ## Sobre o Projeto
 
