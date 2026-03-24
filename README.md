@@ -18,7 +18,7 @@ Uma interface de login moderna e interativa, desenvolvida para demonstrar concei
 ![Boas‑vindas](./bemvindo.png)
 
 ### Cargos
-![Boas‑vindas](./cargo.png)
+![Boas‑vindas](./cargos.png)
 
 
 
