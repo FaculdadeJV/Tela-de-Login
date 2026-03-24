@@ -54,3 +54,8 @@ O projeto utiliza uma paleta de cores que combina azul e vermelho em gradientes:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/login-interativo.git
+
+## Autor
+- Jonathan Arsego Lêla
+- RA: 22408629
+- Engenharia da Computação - CEUB
